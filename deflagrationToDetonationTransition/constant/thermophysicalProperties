@@ -38,6 +38,7 @@ fuel
     }
     thermodynamics
     {
+        //Based on the JANAF thermodynamic model, seven coefficients are specified for both low temp and high temp states
         Tlow            -100;
         Thigh           3500;
         Tcommon         1000;
