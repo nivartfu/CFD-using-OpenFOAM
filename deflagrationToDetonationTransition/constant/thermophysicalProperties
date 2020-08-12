@@ -34,6 +34,7 @@ fuel
 {
     specie
     {
+        //Hydrogen
         molWeight       2.01594;
     }
     thermodynamics
@@ -56,6 +57,7 @@ oxidant
 {
     specie
     {
+        //Air
         molWeight       28.8504;
     }
     thermodynamics
