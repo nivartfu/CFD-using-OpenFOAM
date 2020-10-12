@@ -9,8 +9,11 @@ Generated a C-type mesh with freestream conditions given to the inlet, upper and
 
 
 Flow conditions:
+
 U_inlet = 300 m/s
+
 T_inlet = 300K
+
 p_inlet = 1e-5 
 
 
